@@ -23,9 +23,9 @@
 #elif ANDROID
 // On Android internal storage is mounted as "/sdcard"
 #define SDCARD_DIR "sdcard"
-#define EMU_DATA_DIR "citra-emu"
+#define EMU_DATA_DIR "citra-emu-clone"
 #else
-#define EMU_DATA_DIR "citra-emu"
+#define EMU_DATA_DIR "citra-emu-clone"
 #endif
 #endif
 
